@@ -7,7 +7,10 @@ There are 3 files used for this-
 2) fresh_tomatoes.py - It contains all the HTML, CSS and JS, shared by Udacity team, that makes the webpage where all the movies are displayed, including the iframe to show trailers in webpage
 3) Entertainment_Center.py - This has all the instances of movies that I wanted to list, used from the constructor created in media.py
 # Guidelines to use
-Just run the Entertainment_Center.py file using IDLE shell. This was created using Python 2.7.12
+1) You should already have python installed on your computer to run this. This was created using Python 2.7.12 but you can use any version to run this.
+2) Clone media.py, Entertainment_Center.py and fresh_tomatoes.py on your computer. Keep them in the same folder
+3) Just run the Entertainment_Center.py file using IDLE shell.
+4) A webpage will open up on your default web browser. It will have a list of 6 of my fav movies. You can click on any movie to view its trailer.
 # License
 This is a public domain work, dedicated using CC0 1.0. Feel free to do whatever you want with it.
 # Attributions
