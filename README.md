@@ -10,3 +10,5 @@ There are 3 files used for this-
 Just run the Entertainment_Center.py file using IDLE shell. This was created using Python 2.7.12
 # License
 This is a public domain work, dedicated using CC0 1.0. Feel free to do whatever you want with it.
+# Attributions
+All code used in this project was directly or indirectly taught to us by Udacity through their Full stack developer I course.
