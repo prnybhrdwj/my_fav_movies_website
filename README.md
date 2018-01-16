@@ -3,9 +3,9 @@ This website lists down some of my favorite movies. You can see the name of the 
 This is my first project on python. It was made as a part of Udacity course. 
 # Parts of the code
 There are 3 files used for this-
-1) Media.py - It has a constructor called media, with 1 child constructor - Movie. It was created by me.
+1) media.py - It has a constructor called Media, with 1 child constructor - Movie. It was created by me.
 2) fresh_tomatoes.py - It contains all the HTML, CSS and JS, shared by Udacity team, that makes the webpage where all the movies are displayed, including the iframe to show trailers in webpage
-3) Entertainment_Center.py - This has all the instances of movies that I wanted to list, used from the constructor created in Media.py
+3) Entertainment_Center.py - This has all the instances of movies that I wanted to list, used from the constructor created in media.py
 # Guidelines to use
 Just run the Entertainment_Center.py file using IDLE shell. This was created using Python 2.7.12
 # License
